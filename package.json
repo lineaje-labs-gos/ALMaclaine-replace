@@ -40,9 +40,11 @@
     "replace"
   ],
   "overrides": {
-    "minimatch": ">=3.1.5"
+    "minimatch": ">=3.1.5",
+    "brace-expansion": ">=5.0.8"
   },
   "resolutions": {
-    "minimatch": ">=3.1.5"
+    "minimatch": ">=3.1.5",
+    "brace-expansion": ">=5.0.8"
   }
 }
